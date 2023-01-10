@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-cd706ce0","path":"/tags/Crack/1/","title":"","lang":"en-US","frontmatter":{"layout":"Categories"},"excerpt":"","headers":[],"git":{},"filePathRelative":null}');export{e as data};
